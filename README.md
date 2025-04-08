@@ -1,6 +1,6 @@
 # Análisis de Ventas de Superstore – Proyecto de Data Analyst
 
-## 📌 Descripción
+## Descripción
 
 Este proyecto tiene como objetivo, a partir del procesamiento, manipulación y análisis de datos, obtener insights que puedan contribuir a una mejor toma de decisiones en el negocio analizado.  
 Para ello, se trabaja dentro del entorno de un **Jupyter Notebook**, utilizando herramientas del **ecosistema Python**.  
@@ -21,7 +21,7 @@ A lo largo del proyecto se abordan distintas etapas:
 
 ---
 
-## ⚙️ Requisitos
+##  Requisitos
 
 Para ejecutar este proyecto localmente, necesitás tener instalado:
 
