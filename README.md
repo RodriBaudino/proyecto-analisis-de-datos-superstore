@@ -30,9 +30,10 @@ Comprender las relaciones entre las variables
 
 Proponer acciones concretas para la mejora del negocio
 
-##  Requisitos
+##  Requisitos 
+(Solo necesarios en caso de querer ejecutar localmente las líneas de código)
 
-Para ejecutar este proyecto localmente, necesitás tener instalado:
+Necesitás tener instalado:
 
 - Python (recomendado: versión 3.8 o superior)  
 - Jupyter Notebook o Jupyter Lab  
