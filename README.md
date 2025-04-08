@@ -19,7 +19,7 @@ A lo largo del proyecto se abordan distintas etapas:
 - Evaluación de rentabilidad por categoría y región  
 - Propuesta de acciones estratégicas
 
-## Objetivos del análisis
+##  Objetivos del análisis
 Evaluar el desempeño en ventas de los productos según categoría y subcategoría
 
 Identificar y detectar estacionalidades en las ventas
