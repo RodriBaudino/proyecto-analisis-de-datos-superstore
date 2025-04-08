@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto tiene como objetivo, a partir del procesamiento, manipulación y análisis de datos, obtener insights que puedan contribuir a una mejor toma de decisiones en el negocio analizado.  
+Este proyecto busca a partir del procesamiento, manipulación y análisis de datos, obtener insights que puedan contribuir a una mejor toma de decisiones en el negocio analizado.  
 Para ello, se trabaja dentro del entorno de un Jupyter Notebook, utilizando herramientas del ecosistema Python.  
 
 Las principales librerías empleadas son:
